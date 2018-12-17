@@ -11,3 +11,6 @@ en:
       remove_admin_success: '{{name}} is no longer a hippie herder'
     remove_admin_from_self:
       question: 'Are you sure you no longer want to be a hippie herder?'
+  dashboard_page:
+    filtering:
+      all: Recent discussions
